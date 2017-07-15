@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\adam\documents\visual studio 2017\projects\kulki\kulki\main.cpp(221): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Kulki.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2017\Projects\Kulki\x64\Debug\Kulki.exe
+  Kulki.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2017\Projects\Kulki\x64\Debug\Kulki.pdb (Partial PDB)

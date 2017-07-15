@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\adam\documents\visual studio 2017\projects\kulki\kulki\flashcard.h(38): error C3863: nie można przydzielać typu tablicy „char *[81]”
+c:\users\adam\documents\visual studio 2017\projects\kulki\kulki\main.cpp(63): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  FlashCard.h
+c:\users\adam\documents\visual studio 2017\projects\kulki\kulki\flashcard.h(38): error C3863: nie można przydzielać typu tablicy „char *[81]”
+  Generowanie kodu...
